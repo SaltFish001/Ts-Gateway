@@ -1,5 +1,5 @@
 {
-  "name": "cam_gateway",
+  "name": "ts_gateway",
   "version": "1.0.0",
   "description": "Http/websocket entry",
   "main": "build/index.js",
