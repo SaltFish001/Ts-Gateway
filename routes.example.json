@@ -20,7 +20,8 @@
     "playerWS": {
       "proxyType": "websocket",
       "target": "ws://localhost:3009",
-      "prefix": "/rtp"
+      "prefix": "/zlm",
+      "prefixRewrite": ""
     }
   }
 }
